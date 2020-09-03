@@ -14,6 +14,7 @@
 main
 main_linux
 main_win.exe
+go-stress-testing
 go-stress-testing-mac
 go-stress-testing-linux
 go-stress-testing-win.exe
